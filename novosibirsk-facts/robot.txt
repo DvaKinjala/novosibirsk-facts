@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /private/
 
-Sitemap: https://DvaKinjala.github.io/novosibirsk-facts/sitemap.xml
+Sitemap: https://dvakinjala.github.io/novosibirsk-facts/sitemap.xml
