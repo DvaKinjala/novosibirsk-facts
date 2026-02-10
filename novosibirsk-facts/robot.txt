@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://YOUR-USERNAME.github.io/novosibirsk-facts/sitemap.xml
